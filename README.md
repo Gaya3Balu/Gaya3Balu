@@ -116,6 +116,7 @@ Developed time-series forecasting models to support capacity planning and cost o
 |---|---|
 | 🥈 Datathon 1st Runner-Up | NumPy Ninja |
 | 📜 AI for Data Analysts | IBM, 2026 |
+| 📊 Data Analytics Job SimulationDeloitte Australia | 
 | ☁️ AWS Cloud Practitioner | In Progress |
 | 🎓 B.E. Information Technology | Anna University (WES Evaluated) |
 | ✍️ Published Author | [Medium — Data Pipelines](https://medium.com/@bgayathrib1) |
