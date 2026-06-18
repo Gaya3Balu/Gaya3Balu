@@ -135,7 +135,7 @@ I'm currently open to **Data Analyst**, **Business Analyst**, and **Supply Chain
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gayathri-balu)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@bgayathrib1)
-[![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com)
+[![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/gayathri.balu/vizzes)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Gaya3Balu)
 
 ---
